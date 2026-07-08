@@ -5,6 +5,7 @@ Simple tool, that parses data from yc and forms an inventory list to automatical
 Now you can see server's ip address and username.
 
 To make this work, do the following steps:
+
 0. You need to have a Yandex account and be regestered in yc, as the shell commmand I'm using is yc.
 ```bash
 yc init
